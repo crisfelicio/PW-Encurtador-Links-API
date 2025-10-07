@@ -29,7 +29,6 @@ Para executar este projeto, você precisará ter instalado:
 1. Clone o repositório:
 ```bash
 git clone https://github.com/crisfelicio/PW-Encurtador-Links-API.git
-cd shortbeyond
 ```
 
 2. Instale as dependências:
