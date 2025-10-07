@@ -41,7 +41,6 @@ npm install
 podman play kube shortbeyond.yaml
 ```
 
-## 📍 Endpoints Disponíveis
 
 Após a configuração, você terá acesso aos seguintes serviços:
 
